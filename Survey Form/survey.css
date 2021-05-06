@@ -1,0 +1,99 @@
+
+div{
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px 50px;
+
+}
+h{
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+}
+.H1{
+    font-size: 35px;
+    font-family: "Lucida Console";
+}
+
+  p1{
+    font-size: 29px;
+    font-family: "Lucida Console";
+    color: grey;
+  }
+
+  .ip{
+      height: 39px;
+      width: 300px;
+      font-size: 25px;
+      padding: 8px;
+      font-weight: bold;
+      color: rgb(43, 44, 44);
+  }
+  .ip1{
+    height: 39px;
+      width: 650px;
+      font-size: 25px;
+      padding: 8px;
+  }
+  .rating{
+    margin-left: 1%;
+    padding: 2% 0% 0% 1%;
+    height: 55px;
+    width: 500px;
+  }
+  .rating .fa{
+    font-size: 50px;
+
+  }
+  .rating .fa:hover{
+    color: rgb(238, 224, 94);
+    font-size: 50px;
+  }
+
+  .table{
+   font-size: 25px;
+   padding: 0px 0px 0px 0px;
+  }
+  .table input {
+    border: 5px;
+    width: 30px;
+    height: 2em;
+    margin-left: 53px;
+}
+  .blacked{
+    background-color: rgba(134, 134, 134, 0.308);
+  }
+
+  .textbox{
+    height: 200px;
+    width: 1400px;
+    font-size: 25px;
+    border-radius: 8px;
+  }
+
+  .submitb{
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+    background-color: rgba(139, 128, 117, 0.616);
+    border-radius: 3px;
+    padding: 0%;
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
